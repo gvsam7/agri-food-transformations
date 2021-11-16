@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title:
 subtitle:
@@ -18,14 +18,12 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
+    color: 'grey'
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "0", "0", "0"] #top right bottom left
 advanced:
-  css_class: fullscreen
+  css_class: 
 ---
+
+"**Inclusive Green Infastructures for Urban Wellbeing**" is a British Academy funded research project exploring the interactions between urbanisation and green infrastructures and implications for wellbeing in Wuhan, China and Ghaziabad, India. The project combines development of a web-app for land-use change analysis alongside fieldwork with peri-urban farmers and residents in the two cities. This website presents details of the project and some of the outputs generated so far.
