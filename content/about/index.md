@@ -12,6 +12,8 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
+# pandoc index.md -s -o ba_green_infrastructures_website_about.docx
 ---
 
 ## Urban green infrastructures

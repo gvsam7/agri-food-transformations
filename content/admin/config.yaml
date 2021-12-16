@@ -1,0 +1,6 @@
+collections:
+  - name: "about"
+  - label: "About"
+  - folder: "_about"
+  - create: false
+  
