@@ -32,5 +32,3 @@ user_groups:
 - University of Sussex - Informatics
 - Everyone
 ---
-
-**Profile** [profiles.sussex.ac.uk/p488459-james-robinson/](https://profiles.sussex.ac.uk/p488459-james-robinson/)
