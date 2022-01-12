@@ -27,7 +27,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=I-rLzGcAAAAJ&hl=en
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/WeArePal_ai
 
 bio: "I hail from Jakarta, Indonesia. I received my PhD in Machine Learning from the Australian National University (ANU), Canberra, Australia in 2012. I earned BEng degree in Electrical and Electronics Engineering at Nanyang Technological University (NTU), Singapore. During PhD studies, I have several overseas research exposures, among others, at HIIT-Finland, Yahoo! Research-US, University of Alberta-Canada, Fraunhofer IAIS-Germany, and IST Austria. From 2012-2014, I was a Newton International Fellow of the Royal Society at Department of Engineering of University of Cambridge, a Junior Member of the Isaac Newton Institute for Mathematical Sciences, and a Junior Fellow of the Wolfson College. I joined University of Sussex as a Lecturer in February 2014. Since May 2017 I am a Senior Lecturer. I am now a Reader (since May 2019)."

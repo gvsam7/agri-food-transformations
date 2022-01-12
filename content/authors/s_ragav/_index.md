@@ -10,12 +10,17 @@ authors:
 superuser: false
 
 # Role/position
-role: "Environmental lawyer"
+role: "Environmental activist at NGO"
 
 # Organizations/Affiliations
 organizations:
 - name: 
   url: ""
+
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sushilr33912860
 
 bio: 
 

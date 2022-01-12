@@ -1,26 +1,21 @@
 ---
 # Display name
-title: Prof Sanwei He
+title: Yuyang Liu
 
 # Username (this should match the folder name)
 authors:
-- s_he
+- liu_yuyang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Zhongnan University of Economics and Law
   url: "http://english.zuel.edu.cn/mainm.htm"
-
-social:
-- icon: researchgate
-  icon_pack: fab
-  link: "https://www.researchgate.net/profile/Sanwei_He2"
 
 bio: 
 
@@ -30,5 +25,3 @@ user_groups:
 - Zhongnan University of Economics and Law
 - Everyone
 ---
-
-Expert in GIS and spatial analysis.
