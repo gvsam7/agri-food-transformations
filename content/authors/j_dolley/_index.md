@@ -21,24 +21,23 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jdolley
+- icon: id-card
+  icon_pack: fas
+  link: https://profiles.sussex.ac.uk/p133363-jonathan-dolley
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0O3tcj0AAAAJ
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+bio: Jonathan Dolley is a Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex. He researches the links between urban development policy, peri-urban food systems and potential transformations towards sustainable urbanisation in rapidly urbanising countries.
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+user_groups: 
+- University of Sussex - SPRU
+- Everyone
 ---
+
+Jonathan Dolley is a Research Fellow at the Science Policy Research Unit (SPRU), University of Sussex. He researches the links between urban development policy, peri-urban food systems and potential transformations towards sustainable urbanisation in rapidly urbanising countries.

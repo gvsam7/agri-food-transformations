@@ -1,5 +1,5 @@
 ---
-title: Story Maps
+title: Project outputs
 
 # View.
 #   1 = List

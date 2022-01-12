@@ -3,6 +3,10 @@ title: Ghaziabad Story Map
 date: 2021-11-12
 page_type: posts
 profile: false  # Show author profile?
+
+tags:
+- Story Map
+
 #image:
   #focal_point: "top"
 #featured: true

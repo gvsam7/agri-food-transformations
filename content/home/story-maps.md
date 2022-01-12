@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
+weight: 60
 
 title: Story Maps
 subtitle:
@@ -14,11 +14,11 @@ content:
     category: ""
     exclude_featured: false
     publication_type: ""
-    tag: ""
+    tag: "Story Map"
   offset: 0
   order: desc
   page_type: post
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
