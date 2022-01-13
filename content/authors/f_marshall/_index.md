@@ -21,6 +21,13 @@ social:
 - icon: id-card
   icon_pack: fas
   link: https://profiles.sussex.ac.uk/p174494-fiona-marshall
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=uhV1FSkAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/fiona-marshall-94310824/?originalSubdomain=uk"
+
 
 bio: "My research is concerned with the role of science, technology and innovation in transformations to sustainability, and the characteristics of transformative science systems that will support balanced growth needs and inclusive development."
 

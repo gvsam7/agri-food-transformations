@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Dean of School of Publication Administration
+role: Dean of School of Business Administration
 
 # Organizations/Affiliations
 organizations:

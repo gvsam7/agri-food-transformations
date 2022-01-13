@@ -3,6 +3,7 @@ title: The idea behind the web-app
 date: 2021-11-12
 page_type: posts
 profile: true  # Show author profile?
+reading_time: false  # Show estimated reading time?
 
 tags:
 - Web-app
@@ -43,7 +44,7 @@ These details were identifiable from google earth so I was able to uses this kno
 
 At the time, I wondered if it would be possible to develop a tool to map these changes in peri-urban agriculture at this level of detail for the entire city-region. Back then, the main tools for that type of mapping were complex GIS software that were expensive to access and required a significant amount of training to use. They were also designed for either fine-grained surface cover classification at the level of city blocks or or global data analysis of much coarser datasets than would be useful for peri-urban analysis.
 
-A few years later, machine learning was becoming more and more popular and in particular for image classification. So I wondered if such techniques could be used to classify google earth satellite and aerial imagery to distinguish the different types of peri-urban agriculture I had seen in Wuhan. To cut a long story short, with Fiona and Novi Quadrianto of the Informatics department at Sussex we got funding from the internal funding program the [Sussex Sustainability Research Programme](https://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/), to test out this idea as a web-app that could provide a more accessible way for people to do this kind of machine learning assisted land-use classification.
+A few years later, machine learning was becoming more and more popular and in particular for image classification. So I wondered if such techniques could be used to classify google earth satellite and aerial imagery to distinguish the different types of peri-urban agriculture I had seen in Wuhan. To cut a long story short, with Fiona Marshall, Novi Quadrianto and Jeremy Reffin of the Informatics department at Sussex we got funding from the internal funding program the [Sussex Sustainability Research Programme](https://www.sussex.ac.uk/research/centres/sussex-sustainability-research-programme/), to test out this idea as a web-app that could provide a more accessible way for people to do this kind of machine learning assisted land-use classification.
 
 The first phase of development under the SSRP led to a working prototype which was then developed further as part of our British Academy funded project 'Inclusive Green Infrastructures for Urban Well-being.'
 
@@ -53,3 +54,10 @@ In this second phase we worked with Zhongnan University of Economics and Law in 
 
 Some of this material has been presented in the form of arcgis story maps for [Wuhan](https://storymaps.arcgis.com/stories/e5de902ce6664ea587cf503e265d6f31) and [Ghaziabad](https://arcg.is/1SyurG).
 
+The web-app project page can be found here: [wearepal.ai/projects/ssrp](https://wearepal.ai/projects/ssrp) with a brief description and a list of development team members. 
+
+For more detailed description of the web-app's features visit the [Web-app](/web-app) page on this site.
+
+Finally, this video provides an overview of the web-app's functions:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5MnnAMaIACQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
