@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Environmental activist at NGO"
+role: "Environmental activist"
 
 # Organizations/Affiliations
 organizations:
