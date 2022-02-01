@@ -33,7 +33,13 @@ user_groups:
 - Everyone
 ---
 
-I am currently an EPSRC funded PhD student and my project is focused on Autonomous Sensing and Sampling Drones for Water Quality Monitoring.
+I am an EPSRC funded PhD candidate in Deep Learning for classifying and segmenting aerial/satellite imagery at the University of Sussex, who is passionate about Artificial Intelligence, in particular Deep Learning and Computer Vision. 
+
+Being part of the Predictive Analytical Lab (PAL) – an interdisciplinary research team, I have been involved in a British Academy funded project focused on Satellite/Aerial Image Scene Segmentation, where I designed a classifier that classifies land scenes from satellite/aerial images. For more details please see: - https://wearepal.ai/projects/ssrp. 
+
+The aim of the project is to apply deep learning techniques, to map peri-urban agriculture in Ghaziabad India, and research ways of integrating multiple types of data through a web-based mapping and visualisation tool.  
+
+Currently I am investigating robustness of Deep Learning models to domain shifts such as year/season data sources. 
 
 Prior to this, I worked as a Control and Automation Design Engineer for the oil and gas industry, where I was exposed to the full software and hardware life cycle, systems sensing and control, communications, project planning and management.
 
